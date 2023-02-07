@@ -1,0 +1,11 @@
+.ccContainer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 1em;
+}
+
+.numberContainer{
+    font-size: 2em;
+    border: black 1px solid;
+    padding: 0.5em;
+}

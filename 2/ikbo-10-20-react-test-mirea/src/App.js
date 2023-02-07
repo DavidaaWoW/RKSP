@@ -1,4 +1,3 @@
-import logo from './MIREA_Gerb_Colour.png';
 import './App.css';
 import {Header} from './components/Header';
 import {Body} from "./components/Body";
