@@ -1,0 +1,26 @@
+.formText{
+    text-align: left;
+    padding-left: 1em;
+    margin-bottom: 2em;
+    max-width: 40em;
+
+}
+
+.formContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputContainer{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.checkbox{
+    font-size: 3em;
+    transform: scale(2);
+
+}

@@ -4,6 +4,7 @@ import FormCheckbox from "./FormCheckbox";
 import FormButton from "./FormButton";
 
 function FileHelper(pathOfFileToReadFrom)
+
 {
         const request = new XMLHttpRequest();
         request.open("GET", pathOfFileToReadFrom, false);
